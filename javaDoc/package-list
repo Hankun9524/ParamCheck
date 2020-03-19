@@ -1,9 +1,0 @@
-com.hankun.request.parameters
-com.hankun.request.parameters.annotation
-com.hankun.request.parameters.cache
-com.hankun.request.parameters.core
-com.hankun.request.parameters.exception
-com.hankun.request.parameters.message
-com.hankun.request.parameters.model
-com.hankun.request.parameters.rule
-com.hankun.request.parameters.util
