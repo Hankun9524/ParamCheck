@@ -20,3 +20,20 @@ Step 2. Add the dependency
 dependencies {
 	   implementation 'com.github.Hankun9524:ParamCheck:1.0.0'
 	}
+
+
+maven
+
+	<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+	
+	<dependency>
+	    <groupId>com.github.Hankun9524</groupId>
+	    <artifactId>ParamCheck</artifactId>
+	    <version>1.0.0</version>
+	</dependency>
+	
