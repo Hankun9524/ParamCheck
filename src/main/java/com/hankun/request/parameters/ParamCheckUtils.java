@@ -16,6 +16,8 @@ public class ParamCheckUtils {
      * 字段的检测结果
      *
      * @param obj 检测对象
+     * @throws ParamCheckErrorException  会抛出异常，用全局捕获进行捕获
+     *
      */
     public static void check(Object obj) throws ParamCheckErrorException {
         ParamsCheckResult result = CheckCore.check(obj);
